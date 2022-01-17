@@ -21,23 +21,11 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ### Resumo
 
-<!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
-
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Sempre que um órgão do governo faz aquisições a partir de um determinado limite financeiro previsto em lei, há a necessidade de publicação de editais em sites específicos. As empresas que realizam vendas para o governo necessitam então acessar variados sites, onde eles são publicados, para conseguirem consultá-los. Este trabalho de consulta, quando não diária, periódica, exige um processo repetitivo e que comumente é realizado de forma manual. Dependendo da quantidade de editais disponíveis nestes sites e do momento em que estes são disponibilizados, o processo pode ocupar muito tempo da pessoa que o executará, o que a impedirá de executar tarefas mais nobres neste período. O presente trabalho visa a realizar a consulta automática ao site comprasnet e baixar os editais, quando disponíveis, categorizando-os por data de publicação e por nome do órgão que os publicou, em uma pasta COMPRASNET criada pelo usuário, no caminho de seus downloads, de forma a permitir que tal usuário possa dedicar seu tempo com outras atividades. Para tal, se utilizou do processo de web scrapping por meio de programação em python.
 
 ### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
 
-<!-- trocar o texto abaixo pelo resumo do trabalho, em inglês -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
-
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Whenever a government agency makes acquisitions from a certain financial limit established by law, there is a need to publish public notices on specific websites. Companies that sell to the government then need to access various websites, where they are published, in order to be able to consult them. This consultation work, if not daily, periodical, requires a repetitive process that is commonly performed manually. Depending on the number of public notices available on these sites and the moment they are made available, the process can take up a lot of time for the person who will execute it, which will prevent him from performing more noble tasks during this period. The present work aims to carry out an automatic query to the COMPRASNET website and download the notices, when available, categorizing them by publication date and by the name of the body that published them, in a COMPRASNET folder created by the user, in the path of their downloads, to allow that user to dedicate their time to other activities. For this, we used the web scrapping process through python programming.
 
 ### 1. Introdução
 
@@ -65,7 +53,7 @@ Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis
 
 ---
 
-Matrícula: 123.456.789
+Matrícula: 192.110.194
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
