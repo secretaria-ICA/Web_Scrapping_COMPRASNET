@@ -21,16 +21,16 @@ Sempre que um órgão do governo faz aquisições a partir de um determinado lim
 Whenever a government agency makes acquisitions from a certain financial limit established by law, there is a need to publish public notices on specific websites. Companies that sell to the government then need to access various websites, where they are published, in order to be able to consult them. This consultation work, if not daily, periodical, requires a repetitive process that is commonly performed manually. Depending on the number of public notices available on these sites and the moment they are made available, the process can take up a lot of time for the person who will execute it, which will prevent him from performing more noble tasks during this period. The present work aims to carry out an automatic consultation of the COMPRASNET website and download the public notices, related to the Information Technology area, when available, categorizing them by publication date and by the name of the body that published them, in a COMPRASNET folder created by user, in the way of their downloads, to allow that user to dedicate their time to other activities. For this, we used the web scrapping process through python programming.
 
 
-1. Introdução
+### 1. Introdução
 Tendo em vista que a cada dia surgem mais atividades em que são necessárias, e porque não dizer imprescindíveis, a participação do ser humano, porque exigem complexas abordagens, cada vez mais se verifica a necessidade de automatizar outras atividades em que esta participação não seja mandatória. Nesta direção e a partir de uma reflexão acerca dos problemas que enfrento no meu trabalho atual de venda de equipamentos de TI para o governo, busquei resolver uma situação específica de busca de editais, que no meu entender poderia e, porque não dizer, deveria ser automatizada a fim de permitir que eu pudesse dedicar meu escasso tempo à atividades mais nobres e que de fato fosse necessária a minha participação.
 
-2. Modelagem
+### 2. Modelagem
 Considerando o custo do capital humano que teria que executar a tarefa em relação ao do meio computacional exigido e uma vez que as informações ficam disponibilizados por acesso web não havendo a disponibilidade de uma API, visualizei como necessário realizar um web scrapping para automatizar o trabalho. Para resolver o problema e obter um ganho de tempo com efeitos operacionais objetivos no dia a dia, foi programado, em python, um “robô” para automatizar a busca diária ou periódica por meio desta abordagem.
 
-3. Resultados
+### 3. Resultados
 Com a técnica utilizada, as tarefas que hoje são executadas de forma automática substituiram a abordagem manual e demorada que havia no passado permitindo então que se possa dedicar o tempo que se utilizaria nesta atividade em outras atividades mais nobres.
 
-4. Conclusões
+### 4. Conclusões
 Há um enorme acervo disponível ao público no que diz respeito à possibilidade de otimização dos trabalhos no dia a dia por meio de automação. Num futuro não muito distante conseguiremos automatizar um número extraordinário de atividades e assim contribuir para que o ser humano possa utilizar seu potencial para se dedicar a outras tarefas que considere importantes. Este trabalho comprova que a abordagem manual para tarefas repetitivas e que exigem muito tempo para serem executadas estão com os dias contados.
 
 
