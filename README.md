@@ -8,10 +8,6 @@
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-<!-- para os links a seguir, caso os arquivos estejam no mesmo repositório que este README, não há necessidade de incluir o link completo: basta incluir o nome do arquivo, com extensão, que o GitHub completa o link corretamente -->
-- TCC_Web Scrapping_COMPRASNET.py
-
-
 ### Resumo
 
 Sempre que um órgão do governo faz aquisições a partir de um determinado limite financeiro previsto em lei, há a necessidade de publicação de editais em sites específicos. As empresas que realizam vendas para o governo necessitam então acessar variados sites, onde eles são publicados, para conseguirem consultá-los. Este trabalho de consulta, quando não diária, periódica, exige um processo repetitivo e que comumente é realizado de forma manual. Dependendo da quantidade de editais disponíveis nestes sites e do momento em que estes são disponibilizados, o processo pode ocupar muito tempo da pessoa que o executará, o que a impedirá de executar tarefas mais nobres neste período. O presente trabalho visa a realizar a consulta automática ao site comprasnet e baixar os editais, relacionados à área de Tecnologia da Informação, quando disponíveis, categorizando-os por data de publicação e por nome do órgão que os publicou, em uma pasta COMPRASNET criada pelo usuário, no caminho de seus downloads, de forma a permitir que tal usuário possa dedicar seu tempo a outras atividades. Para tal, foi utilizado o processo de web scrapping por meio de programação em python.
@@ -33,6 +29,7 @@ Com a técnica utilizada, as tarefas que hoje são executadas de forma automáti
 ### 4. Conclusões
 Há um enorme acervo disponível ao público no que diz respeito à possibilidade de otimização dos trabalhos no dia a dia por meio de automação. Num futuro não muito distante conseguiremos automatizar um número extraordinário de atividades e assim contribuir para que o ser humano possa utilizar seu potencial para se dedicar a outras tarefas que considere importantes. Este trabalho comprova que a abordagem manual para tarefas repetitivas e que exigem muito tempo para serem executadas estão com os dias contados.
 
+---
 
 Matrícula: 192.110.194
 
